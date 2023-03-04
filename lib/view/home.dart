@@ -7,7 +7,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        'HOME',
+        'INICIO',
         style: TextStyle(fontSize: 40.0),
       ),
     );

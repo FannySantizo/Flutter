@@ -7,7 +7,7 @@ class Stores extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        'STORE',
+        'UBICACION',
         style: TextStyle(fontSize: 40.0),
       ),
     );

@@ -7,7 +7,7 @@ class Orders extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        'ORDER',
+        'PEDIDOS',
         style: TextStyle(fontSize: 40.0),
       ),
     );

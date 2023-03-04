@@ -7,7 +7,7 @@ class Settings extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        'SETTINGS',
+        'CONFIGURACION',
         style: TextStyle(fontSize: 40.0),
       ),
     );
